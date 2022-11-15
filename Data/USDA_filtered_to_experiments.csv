@@ -1,0 +1,590 @@
+comp_name,food_name,FF_food_no,FF_nutr_no,min,max,ave,unit,der_id,der,dps
+Sucrose,Apple,171688,1010,0.78,3.53,2.07,G,1,Analytical,25
+Glucose (dextrose),Apple,171688,1011,1.45,3.66,2.43,G,1,Analytical,25
+Fructose,Apple,171688,1012,4.63,6.63,5.9,G,1,Analytical,25
+Vitamin E (alpha-tocopherol),Apple,171688,1109,0.08,0.38,0.18,MG,1,Analytical,10
+"Cryptoxanthin, beta",Apple,171688,1120,0,16,11,UG,1,Analytical,14
+Thiamin,Apple,171688,1165,0.007,0.03,0.017,MG,1,Analytical,23
+Niacin,Apple,171688,1167,0.07,0.13,0.091,MG,1,Analytical,13
+Vitamin B-6,Apple,171688,1175,0.028,0.056,0.041,MG,1,Analytical,23
+Betaine,Apple,171688,1198,0,0,0.1,MG,1,Analytical,1
+Tryptophan,Apple,171688,1210,0,0,0.001,G,1,Analytical,0
+Threonine,Apple,171688,1211,0,0,0.006,G,1,Analytical,0
+Isoleucine,Apple,171688,1212,0,0,0.006,G,1,Analytical,0
+Leucine,Apple,171688,1213,0,0,0.013,G,1,Analytical,0
+Lysine,Apple,171688,1214,0,0,0.012,G,1,Analytical,0
+Methionine,Apple,171688,1215,0,0,0.001,G,1,Analytical,0
+Cystine,Apple,171688,1216,0,0,0.001,G,1,Analytical,0
+Phenylalanine,Apple,171688,1217,0,0,0.006,G,1,Analytical,0
+Tyrosine,Apple,171688,1218,0,0,0.001,G,1,Analytical,0
+Valine,Apple,171688,1219,0,0,0.012,G,1,Analytical,0
+Arginine,Apple,171688,1220,0,0,0.006,G,1,Analytical,0
+Histidine,Apple,171688,1221,0,0,0.005,G,1,Analytical,0
+Alanine,Apple,171688,1222,0,0,0.011,G,1,Analytical,0
+Aspartic acid,Apple,171688,1223,0,0,0.07,G,1,Analytical,0
+Glutamic acid,Apple,171688,1224,0,0,0.025,G,1,Analytical,0
+Glycine,Apple,171688,1225,0,0,0.009,G,1,Analytical,0
+Proline,Apple,171688,1226,0,0,0.006,G,1,Analytical,0
+Serine,Apple,171688,1227,0,0,0.01,G,1,Analytical,0
+"Choline, total",Apple,171688,1180,0,0,3.4,MG,SR,Analytical or derived from analytical,0
+"Tocotrienol, alpha",Apple,171688,1128,,,,MG,,,
+(-)-Epicatechin,Apple,171688,,,,,,,,
+(+)-Catechin,Apple,171688,,,,,,,,
+Sucrose,Banana,173944,1010,0.45,4.12,2.39,G,1,Analytical,8
+Glucose (dextrose),Banana,173944,1011,1.79,8.13,4.98,G,1,Analytical,8
+Fructose,Banana,173944,1012,2.34,7.52,4.85,G,1,Analytical,8
+Vitamin E (alpha-tocopherol),Banana,173944,1109,0.03,0.37,0.1,MG,1,Analytical,15
+"Cryptoxanthin, beta",Banana,173944,1120,0,0,0,UG,1,Analytical,6
+"Tocotrienol, alpha",Banana,173944,1128,0,0.09,0.06,MG,1,Analytical,9
+Thiamin,Banana,173944,1165,0.01,0.051,0.031,MG,1,Analytical,12
+Niacin,Banana,173944,1167,0.544,0.749,0.665,MG,1,Analytical,12
+Vitamin B-6,Banana,173944,1175,0.302,0.42,0.367,MG,1,Analytical,12
+Betaine,Banana,173944,1198,0,0,0.1,MG,1,Analytical,1
+Tryptophan,Banana,173944,1210,0,0,0.009,G,1,Analytical,0
+Threonine,Banana,173944,1211,0,0,0.028,G,1,Analytical,0
+Isoleucine,Banana,173944,1212,0,0,0.028,G,1,Analytical,0
+Leucine,Banana,173944,1213,0,0,0.068,G,1,Analytical,0
+Lysine,Banana,173944,1214,0,0,0.05,G,1,Analytical,0
+Methionine,Banana,173944,1215,0,0,0.008,G,1,Analytical,0
+Cystine,Banana,173944,1216,0,0,0.009,G,1,Analytical,0
+Phenylalanine,Banana,173944,1217,0,0,0.049,G,1,Analytical,0
+Tyrosine,Banana,173944,1218,0,0,0.009,G,1,Analytical,0
+Valine,Banana,173944,1219,0,0,0.047,G,1,Analytical,0
+Arginine,Banana,173944,1220,0,0,0.049,G,1,Analytical,0
+Histidine,Banana,173944,1221,0,0,0.077,G,1,Analytical,0
+Alanine,Banana,173944,1222,0,0,0.04,G,1,Analytical,0
+Aspartic acid,Banana,173944,1223,0,0,0.124,G,1,Analytical,0
+Glutamic acid,Banana,173944,1224,0,0,0.152,G,1,Analytical,0
+Glycine,Banana,173944,1225,0,0,0.038,G,1,Analytical,0
+Proline,Banana,173944,1226,0,0,0.028,G,1,Analytical,0
+Serine,Banana,173944,1227,0,0,0.04,G,1,Analytical,0
+"Choline, total",Banana,173944,1180,0,0,9.8,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Banana,173944,,,,,,,,
+(+)-Catechin,Banana,173944,,,,,,,,
+Sucrose,Basil,172232,1010,0,0,0,G,1,Analytical,1
+Glucose (dextrose),Basil,172232,1011,0,0,0.02,G,1,Analytical,1
+Fructose,Basil,172232,1012,0,0,0.02,G,1,Analytical,1
+Vitamin E (alpha-tocopherol),Basil,172232,1109,0,0,0.8,MG,1,Analytical,1
+"Cryptoxanthin, beta",Basil,172232,1120,3,89,46,UG,1,Analytical,7
+"Tocotrienol, alpha",Basil,172232,1128,0,0,0,MG,1,Analytical,1
+Thiamin,Basil,172232,1165,0.008,0.045,0.034,MG,1,Analytical,3
+Niacin,Basil,172232,1167,0.79,1.06,0.902,MG,1,Analytical,3
+Vitamin B-6,Basil,172232,1175,0.129,0.181,0.155,MG,1,Analytical,3
+Betaine,Basil,172232,1198,0,0,0.4,MG,1,Analytical,1
+"Choline, total",Basil,172232,1180,0,0,11.4,MG,SR,Analytical or derived from analytical,0
+Tryptophan,Basil,172232,1210,0,0,0.039,G,SR,Analytical or derived from analytical,0
+Threonine,Basil,172232,1211,0,0,0.104,G,SR,Analytical or derived from analytical,0
+Isoleucine,Basil,172232,1212,0,0,0.104,G,SR,Analytical or derived from analytical,0
+Leucine,Basil,172232,1213,0,0,0.191,G,SR,Analytical or derived from analytical,0
+Lysine,Basil,172232,1214,0,0,0.11,G,SR,Analytical or derived from analytical,0
+Methionine,Basil,172232,1215,0,0,0.036,G,SR,Analytical or derived from analytical,0
+Cystine,Basil,172232,1216,0,0,0.028,G,SR,Analytical or derived from analytical,0
+Phenylalanine,Basil,172232,1217,0,0,0.13,G,SR,Analytical or derived from analytical,0
+Tyrosine,Basil,172232,1218,0,0,0.077,G,SR,Analytical or derived from analytical,0
+Valine,Basil,172232,1219,0,0,0.127,G,SR,Analytical or derived from analytical,0
+Arginine,Basil,172232,1220,0,0,0.117,G,SR,Analytical or derived from analytical,0
+Histidine,Basil,172232,1221,0,0,0.051,G,SR,Analytical or derived from analytical,0
+Alanine,Basil,172232,1222,0,0,0.132,G,SR,Analytical or derived from analytical,0
+Aspartic acid,Basil,172232,1223,0,0,0.301,G,SR,Analytical or derived from analytical,0
+Glutamic acid,Basil,172232,1224,0,0,0.277,G,SR,Analytical or derived from analytical,0
+Glycine,Basil,172232,1225,0,0,0.122,G,SR,Analytical or derived from analytical,0
+Proline,Basil,172232,1226,0,0,0.104,G,SR,Analytical or derived from analytical,0
+Serine,Basil,172232,1227,0,0,0.099,G,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Basil,172232,,,,,,,,
+(+)-Catechin,Basil,172232,,,,,,,,
+Vitamin E (alpha-tocopherol),Black bean,175186,1109,0,0,0.21,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+"Cryptoxanthin, beta",Black bean,175186,1120,0,0,0,UG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Thiamin,Black bean,175186,1165,0,0,0.9,MG,SR,Analytical or derived from analytical,0
+Niacin,Black bean,175186,1167,0,0,1.955,MG,SR,Analytical or derived from analytical,0
+Vitamin B-6,Black bean,175186,1175,0,0,0.286,MG,SR,Analytical or derived from analytical,0
+Tryptophan,Black bean,175186,1210,0,0,0.252,G,SR,Analytical or derived from analytical,0
+Threonine,Black bean,175186,1211,0,0,0.894,G,SR,Analytical or derived from analytical,0
+Isoleucine,Black bean,175186,1212,0,0,0.938,G,SR,Analytical or derived from analytical,0
+Leucine,Black bean,175186,1213,0,0,1.697,G,SR,Analytical or derived from analytical,0
+Lysine,Black bean,175186,1214,0,0,1.459,G,SR,Analytical or derived from analytical,0
+Methionine,Black bean,175186,1215,0,0,0.32,G,SR,Analytical or derived from analytical,0
+Cystine,Black bean,175186,1216,0,0,0.231,G,SR,Analytical or derived from analytical,0
+Phenylalanine,Black bean,175186,1217,0,0,1.149,G,SR,Analytical or derived from analytical,0
+Tyrosine,Black bean,175186,1218,0,0,0.598,G,SR,Analytical or derived from analytical,0
+Valine,Black bean,175186,1219,0,0,1.112,G,SR,Analytical or derived from analytical,0
+Arginine,Black bean,175186,1220,0,0,1.316,G,SR,Analytical or derived from analytical,0
+Histidine,Black bean,175186,1221,0,0,0.592,G,SR,Analytical or derived from analytical,0
+Alanine,Black bean,175186,1222,0,0,0.891,G,SR,Analytical or derived from analytical,0
+Aspartic acid,Black bean,175186,1223,0,0,2.57,G,SR,Analytical or derived from analytical,0
+Glutamic acid,Black bean,175186,1224,0,0,3.24,G,SR,Analytical or derived from analytical,0
+Glycine,Black bean,175186,1225,0,0,0.83,G,SR,Analytical or derived from analytical,0
+Proline,Black bean,175186,1226,0,0,0.901,G,SR,Analytical or derived from analytical,0
+Serine,Black bean,175186,1227,0,0,1.156,G,SR,Analytical or derived from analytical,0
+Sucrose,Black bean,175186,1010,,,,G,,,
+Glucose (dextrose),Black bean,175186,1011,,,,G,,,
+Fructose,Black bean,175186,1012,,,,G,,,
+"Tocotrienol, alpha",Black bean,175186,1128,,,,MG,,,
+"Choline, total",Black bean,175186,1180,,,,MG,,,
+Betaine,Black bean,175186,1198,,,,MG,,,
+(-)-Epicatechin,Black bean,175186,,,,,,,,
+(+)-Catechin,Black bean,175186,,,,,,,,
+"Cryptoxanthin, beta",Carrot,170393,1120,0,0,0,UG,1,Analytical,45
+Betaine,Carrot,170393,1198,0,0,0.4,MG,1,Analytical,1
+Sucrose,Carrot,170393,1010,2.7,4.19,3.59,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,11
+Glucose (dextrose),Carrot,170393,1011,0.28,1.2,0.59,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,11
+Fructose,Carrot,170393,1012,0.34,1,0.55,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,11
+Thiamin,Carrot,170393,1165,0.02,0.085,0.066,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,21
+Niacin,Carrot,170393,1167,0.577,1.41,0.983,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,19
+Vitamin B-6,Carrot,170393,1175,0.09,0.231,0.138,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,19
+Tryptophan,Carrot,170393,1210,0,0,0.012,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Threonine,Carrot,170393,1211,0,0,0.191,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Isoleucine,Carrot,170393,1212,0,0,0.077,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Leucine,Carrot,170393,1213,0,0,0.102,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Lysine,Carrot,170393,1214,0,0,0.101,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Methionine,Carrot,170393,1215,0,0,0.02,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Cystine,Carrot,170393,1216,0,0,0.083,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Phenylalanine,Carrot,170393,1217,0,0,0.061,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Tyrosine,Carrot,170393,1218,0,0,0.043,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Valine,Carrot,170393,1219,0,0,0.069,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Arginine,Carrot,170393,1220,0,0,0.091,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Histidine,Carrot,170393,1221,0,0,0.04,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Alanine,Carrot,170393,1222,0,0,0.113,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Aspartic acid,Carrot,170393,1223,0,0,0.19,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glutamic acid,Carrot,170393,1224,0,0,0.366,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glycine,Carrot,170393,1225,0,0,0.047,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Proline,Carrot,170393,1226,0,0,0.054,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Serine,Carrot,170393,1227,0,0,0.054,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Vitamin E (alpha-tocopherol),Carrot,170393,1109,0.25,1.46,0.66,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",11
+"Tocotrienol, alpha",Carrot,170393,1128,0,0.06,0.01,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",5
+"Choline, total",Carrot,170393,1180,0,0,8.8,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Carrot,170393,,,,,,,,
+(+)-Catechin,Carrot,170393,,,,,,,,
+Tryptophan,Chickpeas,173756,1210,0,0,0.2,G,1,Analytical,0
+Threonine,Chickpeas,173756,1211,0,0,0.766,G,1,Analytical,0
+Isoleucine,Chickpeas,173756,1212,0,0,0.882,G,1,Analytical,0
+Leucine,Chickpeas,173756,1213,0,0,1.465,G,1,Analytical,0
+Lysine,Chickpeas,173756,1214,0,0,1.377,G,1,Analytical,0
+Methionine,Chickpeas,173756,1215,0,0,0.27,G,1,Analytical,0
+Cystine,Chickpeas,173756,1216,0,0,0.279,G,1,Analytical,0
+Phenylalanine,Chickpeas,173756,1217,0,0,1.103,G,1,Analytical,0
+Tyrosine,Chickpeas,173756,1218,0,0,0.512,G,1,Analytical,0
+Valine,Chickpeas,173756,1219,0,0,0.865,G,1,Analytical,0
+Arginine,Chickpeas,173756,1220,0,0,1.939,G,1,Analytical,0
+Histidine,Chickpeas,173756,1221,0,0,0.566,G,1,Analytical,0
+Alanine,Chickpeas,173756,1222,0,0,0.882,G,1,Analytical,0
+Aspartic acid,Chickpeas,173756,1223,0,0,2.422,G,1,Analytical,0
+Glutamic acid,Chickpeas,173756,1224,0,0,3.603,G,1,Analytical,0
+Glycine,Chickpeas,173756,1225,0,0,0.857,G,1,Analytical,0
+Proline,Chickpeas,173756,1226,0,0,0.849,G,1,Analytical,0
+Serine,Chickpeas,173756,1227,0,0,1.036,G,1,Analytical,0
+"Choline, total",Chickpeas,173756,1180,0,0,99.3,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Vitamin E (alpha-tocopherol),Chickpeas,173756,1109,0,0,0.82,MG,52,Other procedure used from imputing,0
+"Cryptoxanthin, beta",Chickpeas,173756,1120,0,0,0,UG,68,"Assumed zero (Insignificant amount or not naturally occurring in a food, such as fiber in meat)",0
+Thiamin,Chickpeas,173756,1165,0,0,0.477,MG,SR,Analytical or derived from analytical,42
+Niacin,Chickpeas,173756,1167,0,0,1.541,MG,SR,Analytical or derived from analytical,43
+Vitamin B-6,Chickpeas,173756,1175,0,0,0.535,MG,SR,Analytical or derived from analytical,26
+Sucrose,Chickpeas,173756,1010,,,,G,,,
+Glucose (dextrose),Chickpeas,173756,1011,,,,G,,,
+Fructose,Chickpeas,173756,1012,,,,G,,,
+"Tocotrienol, alpha",Chickpeas,173756,1128,,,,MG,,,
+Betaine,Chickpeas,173756,1198,,,,MG,,,
+(-)-Epicatechin,Chickpeas,173756,,,,,,,,
+(+)-Catechin,Chickpeas,173756,,,,,,,,
+Sucrose,Corn,169998,1010,0.07,1.7,0.89,G,1,Analytical,2
+Glucose (dextrose),Corn,169998,1011,2.08,4.78,3.43,G,1,Analytical,2
+Fructose,Corn,169998,1012,1.5,2.38,1.94,G,1,Analytical,2
+Vitamin E (alpha-tocopherol),Corn,169998,1109,0,0,0.07,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+"Cryptoxanthin, beta",Corn,169998,1120,0,0,115,UG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+"Choline, total",Corn,169998,1180,0,0,23,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Thiamin,Corn,169998,1165,0.11,0.2,0.155,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,2
+Niacin,Corn,169998,1167,1.7,1.84,1.77,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,2
+Vitamin B-6,Corn,169998,1175,0.055,0.324,0.093,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,7
+Tryptophan,Corn,169998,1210,0,0,0.023,G,SR,Analytical or derived from analytical,17
+Threonine,Corn,169998,1211,0,0,0.129,G,SR,Analytical or derived from analytical,21
+Isoleucine,Corn,169998,1212,0,0,0.129,G,SR,Analytical or derived from analytical,21
+Leucine,Corn,169998,1213,0,0,0.348,G,SR,Analytical or derived from analytical,21
+Lysine,Corn,169998,1214,0,0,0.137,G,SR,Analytical or derived from analytical,21
+Methionine,Corn,169998,1215,0,0,0.067,G,SR,Analytical or derived from analytical,21
+Cystine,Corn,169998,1216,0,0,0.026,G,SR,Analytical or derived from analytical,3
+Phenylalanine,Corn,169998,1217,0,0,0.15,G,SR,Analytical or derived from analytical,21
+Tyrosine,Corn,169998,1218,0,0,0.123,G,SR,Analytical or derived from analytical,5
+Valine,Corn,169998,1219,0,0,0.185,G,SR,Analytical or derived from analytical,21
+Arginine,Corn,169998,1220,0,0,0.131,G,SR,Analytical or derived from analytical,21
+Histidine,Corn,169998,1221,0,0,0.089,G,SR,Analytical or derived from analytical,21
+Alanine,Corn,169998,1222,0,0,0.295,G,SR,Analytical or derived from analytical,5
+Aspartic acid,Corn,169998,1223,0,0,0.244,G,SR,Analytical or derived from analytical,5
+Glutamic acid,Corn,169998,1224,0,0,0.636,G,SR,Analytical or derived from analytical,5
+Glycine,Corn,169998,1225,0,0,0.127,G,SR,Analytical or derived from analytical,5
+Proline,Corn,169998,1226,0,0,0.292,G,SR,Analytical or derived from analytical,5
+Serine,Corn,169998,1227,0,0,0.153,G,SR,Analytical or derived from analytical,5
+"Tocotrienol, alpha",Corn,169998,1128,,,,MG,,,
+Betaine,Corn,169998,1198,,,,MG,,,
+(-)-Epicatechin,Corn,169998,,,,,,,,
+(+)-Catechin,Corn,169998,,,,,,,,
+Vitamin E (alpha-tocopherol),Garlic,169230,1109,0,0,0.08,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+"Cryptoxanthin, beta",Garlic,169230,1120,0,0,0,UG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+"Choline, total",Garlic,169230,1180,0,0,23.2,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Thiamin,Garlic,169230,1165,0,0,0.2,MG,SR,Analytical or derived from analytical,1
+Niacin,Garlic,169230,1167,0,0,0.7,MG,SR,Analytical or derived from analytical,1
+Vitamin B-6,Garlic,169230,1175,0,0,1.235,MG,SR,Calculated or imputed,0
+Tryptophan,Garlic,169230,1210,0,0,0.066,G,SR,Analytical or derived from analytical,1
+Threonine,Garlic,169230,1211,0,0,0.157,G,SR,Analytical or derived from analytical,1
+Isoleucine,Garlic,169230,1212,0,0,0.217,G,SR,Analytical or derived from analytical,1
+Leucine,Garlic,169230,1213,0,0,0.308,G,SR,Analytical or derived from analytical,1
+Lysine,Garlic,169230,1214,0,0,0.273,G,SR,Analytical or derived from analytical,1
+Methionine,Garlic,169230,1215,0,0,0.076,G,SR,Analytical or derived from analytical,1
+Cystine,Garlic,169230,1216,0,0,0.065,G,SR,Analytical or derived from analytical,1
+Phenylalanine,Garlic,169230,1217,0,0,0.183,G,SR,Analytical or derived from analytical,1
+Tyrosine,Garlic,169230,1218,0,0,0.081,G,SR,Analytical or derived from analytical,1
+Valine,Garlic,169230,1219,0,0,0.291,G,SR,Analytical or derived from analytical,1
+Arginine,Garlic,169230,1220,0,0,0.634,G,SR,Analytical or derived from analytical,1
+Histidine,Garlic,169230,1221,0,0,0.113,G,SR,Analytical or derived from analytical,1
+Alanine,Garlic,169230,1222,0,0,0.132,G,SR,Analytical or derived from analytical,1
+Aspartic acid,Garlic,169230,1223,0,0,0.489,G,SR,Analytical or derived from analytical,1
+Glutamic acid,Garlic,169230,1224,0,0,0.805,G,SR,Analytical or derived from analytical,1
+Glycine,Garlic,169230,1225,0,0,0.2,G,SR,Analytical or derived from analytical,1
+Proline,Garlic,169230,1226,0,0,0.1,G,SR,Analytical or derived from analytical,1
+Serine,Garlic,169230,1227,0,0,0.19,G,SR,Analytical or derived from analytical,1
+Sucrose,Garlic,169230,1010,,,,G,,,
+Glucose (dextrose),Garlic,169230,1011,,,,G,,,
+Fructose,Garlic,169230,1012,,,,G,,,
+"Tocotrienol, alpha",Garlic,169230,1128,,,,MG,,,
+Betaine,Garlic,169230,1198,,,,MG,,,
+(-)-Epicatechin,Garlic,169230,,,,,,,,
+(+)-Catechin,Garlic,169230,,,,,,,,
+"Cryptoxanthin, beta",Lettuce,169248,1120,0,0,0,UG,1,Analytical,51
+Betaine,Lettuce,169248,1198,0.1,0.1,0.1,MG,1,Analytical,2
+Sucrose,Lettuce,169248,1010,0,0.2,0.05,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,8
+Glucose (dextrose),Lettuce,169248,1011,0.67,1.2,0.91,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,8
+Fructose,Lettuce,169248,1012,0.78,1.4,1,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,8
+Thiamin,Lettuce,169248,1165,0.013,0.06,0.041,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,23
+Niacin,Lettuce,169248,1167,0.037,0.222,0.123,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,13
+Vitamin B-6,Lettuce,169248,1175,0.025,0.07,0.042,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,23
+Tryptophan,Lettuce,169248,1210,0,0,0.009,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Threonine,Lettuce,169248,1211,0,0,0.025,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Isoleucine,Lettuce,169248,1212,0,0,0.018,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Leucine,Lettuce,169248,1213,0,0,0.025,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Lysine,Lettuce,169248,1214,0,0,0.024,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Methionine,Lettuce,169248,1215,0,0,0.005,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Cystine,Lettuce,169248,1216,0,0,0.005,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Phenylalanine,Lettuce,169248,1217,0,0,0.023,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Tyrosine,Lettuce,169248,1218,0,0,0.007,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Valine,Lettuce,169248,1219,0,0,0.024,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Arginine,Lettuce,169248,1220,0,0,0.015,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Histidine,Lettuce,169248,1221,0,0,0.009,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Alanine,Lettuce,169248,1222,0,0,0.025,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Aspartic acid,Lettuce,169248,1223,0,0,0.125,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glutamic acid,Lettuce,169248,1224,0,0,0.194,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glycine,Lettuce,169248,1225,0,0,0.015,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Proline,Lettuce,169248,1226,0,0,0.01,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Serine,Lettuce,169248,1227,0,0,0.025,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Vitamin E (alpha-tocopherol),Lettuce,169248,1109,0.03,0.37,0.18,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",13
+"Tocotrienol, alpha",Lettuce,169248,1128,0,0.03,0.01,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",7
+"Choline, total",Lettuce,169248,1180,0,0,6.7,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Lettuce,169248,,,,,,,,
+(+)-Catechin,Lettuce,169248,,,,,,,,
+Vitamin E (alpha-tocopherol),Olives,169096,1109,0,0,3.81,MG,1,Analytical,1
+"Cryptoxanthin, beta",Olives,169096,1120,3,19,9,UG,1,Analytical,3
+"Tocotrienol, alpha",Olives,169096,1128,0,0,0,MG,1,Analytical,1
+Thiamin,Olives,169096,1165,0.019,0.023,0.021,MG,1,Analytical,2
+Niacin,Olives,169096,1167,0.144,0.33,0.237,MG,1,Analytical,2
+Vitamin B-6,Olives,169096,1175,0.024,0.037,0.031,MG,1,Analytical,2
+"Choline, total",Olives,169096,1180,0,0,14.2,MG,20,Based on another form of the food or similar food; Concentration adjustment; No adjustment; Retention factors not used,0
+Sucrose,Olives,169096,1010,,,,G,,,
+Glucose (dextrose),Olives,169096,1011,,,,G,,,
+Fructose,Olives,169096,1012,,,,G,,,
+Betaine,Olives,169096,1198,,,,MG,,,
+Tryptophan,Olives,169096,1210,,,,G,,,
+Threonine,Olives,169096,1211,,,,G,,,
+Isoleucine,Olives,169096,1212,,,,G,,,
+Leucine,Olives,169096,1213,,,,G,,,
+Lysine,Olives,169096,1214,,,,G,,,
+Methionine,Olives,169096,1215,,,,G,,,
+Cystine,Olives,169096,1216,,,,G,,,
+Phenylalanine,Olives,169096,1217,,,,G,,,
+Tyrosine,Olives,169096,1218,,,,G,,,
+Valine,Olives,169096,1219,,,,G,,,
+Arginine,Olives,169096,1220,,,,G,,,
+Histidine,Olives,169096,1221,,,,G,,,
+Alanine,Olives,169096,1222,,,,G,,,
+Aspartic acid,Olives,169096,1223,,,,G,,,
+Glutamic acid,Olives,169096,1224,,,,G,,,
+Glycine,Olives,169096,1225,,,,G,,,
+Proline,Olives,169096,1226,,,,G,,,
+Serine,Olives,169096,1227,,,,G,,,
+(-)-Epicatechin,Olives,169096,,,,,,,,
+(+)-Catechin,Olives,169096,,,,,,,,
+Betaine,Onion,170000,1198,0,0,0.1,MG,1,Analytical,1
+Tryptophan,Onion,170000,1210,0,0,0.014,G,1,Analytical,0
+Threonine,Onion,170000,1211,0,0,0.021,G,1,Analytical,0
+Isoleucine,Onion,170000,1212,0,0,0.014,G,1,Analytical,0
+Leucine,Onion,170000,1213,0,0,0.025,G,1,Analytical,0
+Lysine,Onion,170000,1214,0,0,0.039,G,1,Analytical,0
+Methionine,Onion,170000,1215,0,0,0.002,G,1,Analytical,0
+Cystine,Onion,170000,1216,0,0,0.004,G,1,Analytical,0
+Phenylalanine,Onion,170000,1217,0,0,0.025,G,1,Analytical,0
+Tyrosine,Onion,170000,1218,0,0,0.014,G,1,Analytical,0
+Valine,Onion,170000,1219,0,0,0.021,G,1,Analytical,0
+Arginine,Onion,170000,1220,0,0,0.104,G,1,Analytical,0
+Histidine,Onion,170000,1221,0,0,0.014,G,1,Analytical,0
+Alanine,Onion,170000,1222,0,0,0.021,G,1,Analytical,0
+Aspartic acid,Onion,170000,1223,0,0,0.091,G,1,Analytical,0
+Glutamic acid,Onion,170000,1224,0,0,0.258,G,1,Analytical,0
+Glycine,Onion,170000,1225,0,0,0.025,G,1,Analytical,0
+Proline,Onion,170000,1226,0,0,0.012,G,1,Analytical,0
+Serine,Onion,170000,1227,0,0,0.021,G,1,Analytical,0
+"Cryptoxanthin, beta",Onion,170000,1120,0,0,0,UG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Sucrose,Onion,170000,1010,0.54,2.04,0.99,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,16
+Glucose (dextrose),Onion,170000,1011,0.99,2.34,1.97,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,16
+Fructose,Onion,170000,1012,0.7,1.85,1.29,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,16
+Thiamin,Onion,170000,1165,0.04,0.063,0.046,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,25
+Niacin,Onion,170000,1167,0.037,0.151,0.116,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,15
+Vitamin B-6,Onion,170000,1175,0.059,0.222,0.12,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,25
+Vitamin E (alpha-tocopherol),Onion,170000,1109,0.01,0.04,0.02,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",5
+"Tocotrienol, alpha",Onion,170000,1128,0.01,0.12,0.04,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",5
+"Choline, total",Onion,170000,1180,0,0,6.1,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Onion,170000,,,,,,,,
+(+)-Catechin,Onion,170000,,,,,,,,
+Sucrose,Peach,169928,1010,3.66,5.97,4.76,G,1,Analytical,8
+Glucose (dextrose),Peach,169928,1011,1.25,2.87,1.95,G,1,Analytical,8
+Fructose,Peach,169928,1012,1.2,2.17,1.53,G,1,Analytical,8
+Vitamin E (alpha-tocopherol),Peach,169928,1109,0.32,1.01,0.73,MG,1,Analytical,5
+"Cryptoxanthin, beta",Peach,169928,1120,3,178,67,UG,1,Analytical,32
+"Tocotrienol, alpha",Peach,169928,1128,0,0.06,0.03,MG,1,Analytical,5
+Thiamin,Peach,169928,1165,0.015,0.028,0.024,MG,1,Analytical,8
+Niacin,Peach,169928,1167,0.68,0.999,0.806,MG,1,Analytical,8
+Vitamin B-6,Peach,169928,1175,0.014,0.036,0.025,MG,1,Analytical,8
+Betaine,Peach,169928,1198,0,0,0.3,MG,1,Analytical,1
+Tryptophan,Peach,169928,1210,0,0,0.01,G,1,Analytical,0
+Threonine,Peach,169928,1211,0,0,0.016,G,1,Analytical,0
+Isoleucine,Peach,169928,1212,0,0,0.017,G,1,Analytical,0
+Leucine,Peach,169928,1213,0,0,0.027,G,1,Analytical,0
+Lysine,Peach,169928,1214,0,0,0.03,G,1,Analytical,0
+Methionine,Peach,169928,1215,0,0,0.01,G,1,Analytical,0
+Cystine,Peach,169928,1216,0,0,0.012,G,1,Analytical,0
+Phenylalanine,Peach,169928,1217,0,0,0.019,G,1,Analytical,0
+Tyrosine,Peach,169928,1218,0,0,0.014,G,1,Analytical,0
+Valine,Peach,169928,1219,0,0,0.022,G,1,Analytical,0
+Arginine,Peach,169928,1220,0,0,0.018,G,1,Analytical,0
+Histidine,Peach,169928,1221,0,0,0.013,G,1,Analytical,0
+Alanine,Peach,169928,1222,0,0,0.028,G,1,Analytical,0
+Aspartic acid,Peach,169928,1223,0,0,0.418,G,1,Analytical,0
+Glutamic acid,Peach,169928,1224,0,0,0.056,G,1,Analytical,0
+Glycine,Peach,169928,1225,0,0,0.021,G,1,Analytical,0
+Proline,Peach,169928,1226,0,0,0.018,G,1,Analytical,0
+Serine,Peach,169928,1227,0,0,0.032,G,1,Analytical,0
+"Choline, total",Peach,169928,1180,0,0,6.1,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Peach,169928,,,,,,,,
+(+)-Catechin,Peach,169928,,,,,,,,
+Sucrose,Pear,167779,1010,0.12,0.81,0.33,G,1,Analytical,6
+Glucose (dextrose),Pear,167779,1011,2.66,4.92,3.33,G,1,Analytical,6
+Fructose,Pear,167779,1012,5.71,6.44,6.06,G,1,Analytical,6
+"Cryptoxanthin, beta",Pear,167779,1120,0,2,1,UG,1,Analytical,4
+Thiamin,Pear,167779,1165,0.008,0.013,0.01,MG,1,Analytical,4
+Niacin,Pear,167779,1167,0.097,0.18,0.151,MG,1,Analytical,4
+Vitamin B-6,Pear,167779,1175,0.016,0.038,0.026,MG,1,Analytical,4
+Tryptophan,Pear,167779,1210,0,0,0.002,G,1,Analytical,0
+Threonine,Pear,167779,1211,0,0,0.014,G,1,Analytical,0
+Isoleucine,Pear,167779,1212,0,0,0.013,G,1,Analytical,0
+Leucine,Pear,167779,1213,0,0,0.022,G,1,Analytical,0
+Lysine,Pear,167779,1214,0,0,0.02,G,1,Analytical,0
+Methionine,Pear,167779,1215,0,0,0.003,G,1,Analytical,0
+Cystine,Pear,167779,1216,0,0,0.002,G,1,Analytical,0
+Phenylalanine,Pear,167779,1217,0,0,0.013,G,1,Analytical,0
+Tyrosine,Pear,167779,1218,0,0,0.002,G,1,Analytical,0
+Valine,Pear,167779,1219,0,0,0.02,G,1,Analytical,0
+Arginine,Pear,167779,1220,0,0,0.012,G,1,Analytical,0
+Histidine,Pear,167779,1221,0,0,0.002,G,1,Analytical,0
+Alanine,Pear,167779,1222,0,0,0.016,G,1,Analytical,0
+Aspartic acid,Pear,167779,1223,0,0,0.124,G,1,Analytical,0
+Glutamic acid,Pear,167779,1224,0,0,0.036,G,1,Analytical,0
+Glycine,Pear,167779,1225,0,0,0.015,G,1,Analytical,0
+Proline,Pear,167779,1226,0,0,0.025,G,1,Analytical,0
+Serine,Pear,167779,1227,0,0,0.018,G,1,Analytical,0
+Vitamin E (alpha-tocopherol),Pear,167779,1109,0,0,0.12,MG,20,Based on another form of the food or similar food; Concentration adjustment; No adjustment; Retention factors not used,0
+"Choline, total",Pear,167779,1180,0,0,5.1,MG,20,Based on another form of the food or similar food; Concentration adjustment; No adjustment; Retention factors not used,0
+"Tocotrienol, alpha",Pear,167779,1128,,,,MG,,,
+Betaine,Pear,167779,1198,,,,MG,,,
+(-)-Epicatechin,Pear,167779,,,,,,,,
+(+)-Catechin,Pear,167779,,,,,,,,
+"Cryptoxanthin, beta",Pepper,170427,1120,0,46,7,UG,1,Analytical,7
+Betaine,Pepper,170427,1198,0,0,0.1,MG,1,Analytical,1
+Sucrose,Pepper,170427,1010,0,0.4,0.11,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,8
+Glucose (dextrose),Pepper,170427,1011,0.71,1.5,1.16,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,9
+Fructose,Pepper,170427,1012,1.04,1.3,1.12,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,9
+Thiamin,Pepper,170427,1165,0.037,0.067,0.057,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,16
+Niacin,Pepper,170427,1167,0.448,0.595,0.48,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,16
+Vitamin B-6,Pepper,170427,1175,0.118,0.283,0.224,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,16
+Tryptophan,Pepper,170427,1210,0,0,0.012,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Threonine,Pepper,170427,1211,0,0,0.036,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Isoleucine,Pepper,170427,1212,0,0,0.024,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Leucine,Pepper,170427,1213,0,0,0.036,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Lysine,Pepper,170427,1214,0,0,0.039,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Methionine,Pepper,170427,1215,0,0,0.007,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Cystine,Pepper,170427,1216,0,0,0.012,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Phenylalanine,Pepper,170427,1217,0,0,0.092,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Tyrosine,Pepper,170427,1218,0,0,0.012,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Valine,Pepper,170427,1219,0,0,0.036,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Arginine,Pepper,170427,1220,0,0,0.027,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Histidine,Pepper,170427,1221,0,0,0.01,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Alanine,Pepper,170427,1222,0,0,0.036,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Aspartic acid,Pepper,170427,1223,0,0,0.208,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glutamic acid,Pepper,170427,1224,0,0,0.194,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glycine,Pepper,170427,1225,0,0,0.03,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Proline,Pepper,170427,1226,0,0,0.024,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Serine,Pepper,170427,1227,0,0,0.054,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Vitamin E (alpha-tocopherol),Pepper,170427,1109,0.26,0.57,0.37,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",3
+"Tocotrienol, alpha",Pepper,170427,1128,0,0,0,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",3
+"Choline, total",Pepper,170427,1180,0,0,5.5,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Pepper,170427,,,,,,,,
+(+)-Catechin,Pepper,170427,,,,,,,,
+Sucrose,Potato,170027,1010,0.08,0.16,0.13,G,1,Analytical,4
+Glucose (dextrose),Potato,170027,1011,0.2,0.31,0.25,G,1,Analytical,4
+Fructose,Potato,170027,1012,0.16,0.3,0.23,G,1,Analytical,4
+Vitamin E (alpha-tocopherol),Potato,170027,1109,0,0.01,0.01,MG,1,Analytical,2
+Thiamin,Potato,170027,1165,0.06,0.095,0.082,MG,1,Analytical,4
+Niacin,Potato,170027,1167,0.969,1.18,1.035,MG,1,Analytical,4
+Vitamin B-6,Potato,170027,1175,0.13,0.604,0.345,MG,1,Analytical,4
+Betaine,Potato,170027,1198,0,0,0.2,MG,1,Analytical,1
+"Cryptoxanthin, beta",Potato,170027,1120,0,0,0,UG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",4
+"Choline, total",Potato,170027,1180,0,0,12.6,MG,SR,Analytical or derived from analytical,0
+"Tocotrienol, alpha",Potato,170027,1128,,,,MG,,,
+Tryptophan,Potato,170027,1210,,,,G,,,
+Threonine,Potato,170027,1211,,,,G,,,
+Isoleucine,Potato,170027,1212,,,,G,,,
+Leucine,Potato,170027,1213,,,,G,,,
+Lysine,Potato,170027,1214,,,,G,,,
+Methionine,Potato,170027,1215,,,,G,,,
+Cystine,Potato,170027,1216,,,,G,,,
+Phenylalanine,Potato,170027,1217,,,,G,,,
+Tyrosine,Potato,170027,1218,,,,G,,,
+Valine,Potato,170027,1219,,,,G,,,
+Arginine,Potato,170027,1220,,,,G,,,
+Histidine,Potato,170027,1221,,,,G,,,
+Alanine,Potato,170027,1222,,,,G,,,
+Aspartic acid,Potato,170027,1223,,,,G,,,
+Glutamic acid,Potato,170027,1224,,,,G,,,
+Glycine,Potato,170027,1225,,,,G,,,
+Proline,Potato,170027,1226,,,,G,,,
+Serine,Potato,170027,1227,,,,G,,,
+(-)-Epicatechin,Potato,170027,,,,,,,,
+(+)-Catechin,Potato,170027,,,,,,,,
+Betaine,Soybean,174270,1198,2.1,2.1,2.1,MG,1,Analytical,2
+"Cryptoxanthin, beta",Soybean,174270,1120,0,0,0,UG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Tryptophan,Soybean,174270,1210,0,0,0.591,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Threonine,Soybean,174270,1211,0,0,1.766,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Isoleucine,Soybean,174270,1212,0,0,1.971,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Leucine,Soybean,174270,1213,0,0,3.309,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Lysine,Soybean,174270,1214,0,0,2.706,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Methionine,Soybean,174270,1215,0,0,0.547,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Cystine,Soybean,174270,1216,0,0,0.655,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Phenylalanine,Soybean,174270,1217,0,0,2.122,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Tyrosine,Soybean,174270,1218,0,0,1.539,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Valine,Soybean,174270,1219,0,0,2.029,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Arginine,Soybean,174270,1220,0,0,3.153,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Histidine,Soybean,174270,1221,0,0,1.097,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Alanine,Soybean,174270,1222,0,0,1.915,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Aspartic acid,Soybean,174270,1223,0,0,5.112,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Glutamic acid,Soybean,174270,1224,0,0,7.874,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Glycine,Soybean,174270,1225,0,0,1.88,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Proline,Soybean,174270,1226,0,0,2.379,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Serine,Soybean,174270,1227,0,0,2.357,G,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Vitamin E (alpha-tocopherol),Soybean,174270,1109,0,0,0.85,MG,SR,Analytical or derived from analytical,0
+Thiamin,Soybean,174270,1165,0,0,0.874,MG,SR,Analytical or derived from analytical,50
+Niacin,Soybean,174270,1167,0,0,1.623,MG,SR,Analytical or derived from analytical,32
+Vitamin B-6,Soybean,174270,1175,0,0,0.377,MG,SR,Analytical or derived from analytical,6
+"Choline, total",Soybean,174270,1180,0,0,115.9,MG,SR,Analytical or derived from analytical,0
+Sucrose,Soybean,174270,1010,,,,G,,,
+Glucose (dextrose),Soybean,174270,1011,,,,G,,,
+Fructose,Soybean,174270,1012,,,,G,,,
+"Tocotrienol, alpha",Soybean,174270,1128,,,,MG,,,
+(-)-Epicatechin,Soybean,174270,,,,,,,,
+(+)-Catechin,Soybean,174270,,,,,,,,
+"Cryptoxanthin, beta",Spinach,168462,1120,0,0,0,UG,1,Analytical,4
+"Choline, total",Spinach,168462,1180,0,0,19.3,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Betaine,Spinach,168462,1198,0,0,102.6,MG,16,Based on another form of the food or similar food; Concentration adjustment; Solids; Retention factors not used,0
+Sucrose,Spinach,168462,1010,0,0.3,0.07,G,SR,Analytical or derived from analytical,8
+Glucose (dextrose),Spinach,168462,1011,0.02,0.3,0.11,G,SR,Analytical or derived from analytical,8
+Fructose,Spinach,168462,1012,0,0.51,0.15,G,SR,Analytical or derived from analytical,8
+Vitamin E (alpha-tocopherol),Spinach,168462,1109,1.41,2.7,2.03,MG,SR,Analytical or derived from analytical,7
+"Tocotrienol, alpha",Spinach,168462,1128,0,0,0,MG,SR,Analytical or derived from analytical,1
+Thiamin,Spinach,168462,1165,0,0,0.078,MG,SR,Analytical or derived from analytical,9
+Niacin,Spinach,168462,1167,0,0,0.724,MG,SR,Analytical or derived from analytical,9
+Vitamin B-6,Spinach,168462,1175,0,0,0.195,MG,SR,Analytical or derived from analytical,6
+Tryptophan,Spinach,168462,1210,0,0,0.039,G,SR,Analytical or derived from analytical,19
+Threonine,Spinach,168462,1211,0,0,0.122,G,SR,Analytical or derived from analytical,19
+Isoleucine,Spinach,168462,1212,0,0,0.147,G,SR,Analytical or derived from analytical,19
+Leucine,Spinach,168462,1213,0,0,0.223,G,SR,Analytical or derived from analytical,19
+Lysine,Spinach,168462,1214,0,0,0.174,G,SR,Analytical or derived from analytical,23
+Methionine,Spinach,168462,1215,0,0,0.053,G,SR,Analytical or derived from analytical,23
+Cystine,Spinach,168462,1216,0,0,0.035,G,SR,Analytical or derived from analytical,8
+Phenylalanine,Spinach,168462,1217,0,0,0.129,G,SR,Analytical or derived from analytical,19
+Tyrosine,Spinach,168462,1218,0,0,0.108,G,SR,Analytical or derived from analytical,8
+Valine,Spinach,168462,1219,0,0,0.161,G,SR,Analytical or derived from analytical,19
+Arginine,Spinach,168462,1220,0,0,0.162,G,SR,Analytical or derived from analytical,18
+Histidine,Spinach,168462,1221,0,0,0.064,G,SR,Analytical or derived from analytical,18
+Alanine,Spinach,168462,1222,0,0,0.142,G,SR,Analytical or derived from analytical,7
+Aspartic acid,Spinach,168462,1223,0,0,0.24,G,SR,Analytical or derived from analytical,7
+Glutamic acid,Spinach,168462,1224,0,0,0.343,G,SR,Analytical or derived from analytical,7
+Glycine,Spinach,168462,1225,0,0,0.134,G,SR,Analytical or derived from analytical,7
+Proline,Spinach,168462,1226,0,0,0.112,G,SR,Analytical or derived from analytical,6
+Serine,Spinach,168462,1227,0,0,0.104,G,SR,Analytical or derived from analytical,7
+(-)-Epicatechin,Spinach,168462,,,,,,,,
+(+)-Catechin,Spinach,168462,,,,,,,,
+Sucrose,Strawberry,167762,1010,0,1.6,0.47,G,1,Analytical,15
+Glucose (dextrose),Strawberry,167762,1011,1.2,2.95,1.99,G,1,Analytical,16
+Fructose,Strawberry,167762,1012,1.24,3.28,2.44,G,1,Analytical,16
+Vitamin E (alpha-tocopherol),Strawberry,167762,1109,0.19,0.44,0.29,MG,1,Analytical,8
+"Cryptoxanthin, beta",Strawberry,167762,1120,0,0,0,UG,1,Analytical,6
+"Tocotrienol, alpha",Strawberry,167762,1128,0,0.02,0.01,MG,1,Analytical,8
+Thiamin,Strawberry,167762,1165,0.007,0.044,0.024,MG,1,Analytical,12
+Niacin,Strawberry,167762,1167,0.247,0.53,0.386,MG,1,Analytical,12
+Vitamin B-6,Strawberry,167762,1175,0.03,0.08,0.047,MG,1,Analytical,12
+Betaine,Strawberry,167762,1198,0,0,0.2,MG,1,Analytical,1
+Tryptophan,Strawberry,167762,1210,0,0,0.008,G,37,Concentration adjustment using factor; derived from analytical data,0
+Threonine,Strawberry,167762,1211,0,0,0.02,G,37,Concentration adjustment using factor; derived from analytical data,0
+Isoleucine,Strawberry,167762,1212,0,0,0.016,G,37,Concentration adjustment using factor; derived from analytical data,0
+Leucine,Strawberry,167762,1213,0,0,0.034,G,37,Concentration adjustment using factor; derived from analytical data,0
+Lysine,Strawberry,167762,1214,0,0,0.026,G,37,Concentration adjustment using factor; derived from analytical data,0
+Methionine,Strawberry,167762,1215,0,0,0.002,G,37,Concentration adjustment using factor; derived from analytical data,0
+Cystine,Strawberry,167762,1216,0,0,0.006,G,37,Concentration adjustment using factor; derived from analytical data,0
+Phenylalanine,Strawberry,167762,1217,0,0,0.019,G,37,Concentration adjustment using factor; derived from analytical data,0
+Tyrosine,Strawberry,167762,1218,0,0,0.022,G,37,Concentration adjustment using factor; derived from analytical data,0
+Valine,Strawberry,167762,1219,0,0,0.019,G,37,Concentration adjustment using factor; derived from analytical data,0
+Arginine,Strawberry,167762,1220,0,0,0.028,G,37,Concentration adjustment using factor; derived from analytical data,0
+Histidine,Strawberry,167762,1221,0,0,0.012,G,37,Concentration adjustment using factor; derived from analytical data,0
+Alanine,Strawberry,167762,1222,0,0,0.033,G,37,Concentration adjustment using factor; derived from analytical data,0
+Aspartic acid,Strawberry,167762,1223,0,0,0.149,G,37,Concentration adjustment using factor; derived from analytical data,0
+Glutamic acid,Strawberry,167762,1224,0,0,0.098,G,37,Concentration adjustment using factor; derived from analytical data,0
+Glycine,Strawberry,167762,1225,0,0,0.026,G,37,Concentration adjustment using factor; derived from analytical data,0
+Proline,Strawberry,167762,1226,0,0,0.02,G,37,Concentration adjustment using factor; derived from analytical data,0
+Serine,Strawberry,167762,1227,0,0,0.025,G,37,Concentration adjustment using factor; derived from analytical data,0
+"Choline, total",Strawberry,167762,1180,0,0,5.7,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Strawberry,167762,,,,,,,,
+(+)-Catechin,Strawberry,167762,,,,,,,,
+"Cryptoxanthin, beta",Tomato,170457,1120,0,0,0,UG,1,Analytical,10
+Betaine,Tomato,170457,1198,0.1,0.1,0.1,MG,1,Analytical,2
+Sucrose,Tomato,170457,1010,0,0.02,0,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,12
+Glucose (dextrose),Tomato,170457,1011,0.49,2.67,1.25,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,16
+Fructose,Tomato,170457,1012,1.1,2.32,1.37,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,17
+Thiamin,Tomato,170457,1165,0.02,0.06,0.037,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,19
+Niacin,Tomato,170457,1167,0.445,0.819,0.594,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,19
+Vitamin B-6,Tomato,170457,1175,0.06,0.097,0.08,MG,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,19
+Tryptophan,Tomato,170457,1210,0,0,0.006,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Threonine,Tomato,170457,1211,0,0,0.027,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Isoleucine,Tomato,170457,1212,0,0,0.018,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Leucine,Tomato,170457,1213,0,0,0.025,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Lysine,Tomato,170457,1214,0,0,0.027,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Methionine,Tomato,170457,1215,0,0,0.006,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Cystine,Tomato,170457,1216,0,0,0.009,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Phenylalanine,Tomato,170457,1217,0,0,0.027,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Tyrosine,Tomato,170457,1218,0,0,0.014,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Valine,Tomato,170457,1219,0,0,0.018,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Arginine,Tomato,170457,1220,0,0,0.021,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Histidine,Tomato,170457,1221,0,0,0.014,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Alanine,Tomato,170457,1222,0,0,0.027,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Aspartic acid,Tomato,170457,1223,0,0,0.135,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glutamic acid,Tomato,170457,1224,0,0,0.431,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Glycine,Tomato,170457,1225,0,0,0.019,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Proline,Tomato,170457,1226,0,0,0.015,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Serine,Tomato,170457,1227,0,0,0.026,G,42,Aggregated data involving combinations of data with only source codes 1 and 12 and/or 13,0
+Vitamin E (alpha-tocopherol),Tomato,170457,1109,0.05,1.02,0.54,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",16
+"Tocotrienol, alpha",Tomato,170457,1128,0,0.04,0.01,MG,43,"Aggregated data involving combinations of data with different source codes when at least one code is not 1, 6, 12, or 13",6
+"Choline, total",Tomato,170457,1180,0,0,6.7,MG,SR,Analytical or derived from analytical,0
+(-)-Epicatechin,Tomato,170457,,,,,,,,
+(+)-Catechin,Tomato,170457,,,,,,,,
