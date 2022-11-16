@@ -1,6 +1,6 @@
 # Quantifying Untargeted Metabolomics
 
-This is the Github for the paper, "Estimating nutrient concentration in food using untargeted metabolomics," where we use the universal scaling of nutrient concentrations discussed previously in [1] to quantify the concentrations of compounds in untargeted metabolomics experiments. 
+This is the GitHub for the paper, "Estimating nutrient concentration in food using untargeted metabolomics," where we use the universal scaling of nutrient concentrations discussed previously in [1] to quantify the concentrations of compounds in untargeted metabolomics experiments. 
 
 ## Data Folder
 
