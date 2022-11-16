@@ -18,8 +18,9 @@ Contains all the data used within the paper.
 - **USPX model prediction**: The code for the model trained on the USPX data as presented in the paper. Predicts the concentrations for untargeted metabolomics using peak areas for compounds reported and unreported in the USDA.  
 - **USPX Model Leave-One_Out**: The leave-one-out validation code used to support the model within the paper.
 
-## References
+### References
 [1] Menichetti, G. & Barabasi, A.-L. Universal scaling of nutrient concentrations in food. Nat. Food 1–66 (2021).
+
 [2] Hooton, F., Menichetti, G. & Barabási, A.-L. Exploring food contents in scientific literature with FoodMine. Sci. Rep. 10, 16191 (2020).
 
 # Paper Citation
