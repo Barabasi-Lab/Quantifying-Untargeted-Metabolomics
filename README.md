@@ -13,7 +13,7 @@ Contains all the data used within the paper.
 -  **MassSpec_features**: The chemical properties and phylogenetic tree information for all compounds and foods within the MassSpec experiments.
 -  **FoodMine_features**: The chemical properties and phylogenetic tree information for select compounds and foods scraped from the scientific literature using FoodMine [2]. This is used to predict the concentration of compounds in MassSpec that are not reported in the USDA.
 
-## Model Codes
+## Code Folder
 
 - **USPX model prediction**: The code for the model trained on the USPX data as presented in the paper. Predicts the concentrations for untargeted metabolomics using peak areas for compounds reported and unreported in the USDA.  
 - **USPX Model Leave-One_Out**: The leave-one-out validation code used to support the model within the paper.
