@@ -19,7 +19,7 @@ Contains all the data used within the paper.
 - **USPX Model Leave-One_Out**: The leave-one-out validation code used to support the model within the paper.
 
 ### References
-[1] Menichetti, G. & Barabasi, A.-L. Universal scaling of nutrient concentrations in food. Nat. Food 1–66 (2021).
+[1] Menichetti, G. & Barabási, A.-L. Universal scaling of nutrient concentrations in food. Nat. Food 3, 375-382 (2022).
 
 [2] Hooton, F., Menichetti, G. & Barabási, A.-L. Exploring food contents in scientific literature with FoodMine. Sci. Rep. 10, 16191 (2020).
 
